@@ -13,7 +13,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      My name is <b>Aeeryin</b>
   </samp>
 </div>
 
@@ -24,7 +24,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/aeeryin-black?style=for-the-badge&logo=AntDesign&logoColor=1" />
 </div>
       
 <br>
@@ -33,7 +33,8 @@
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=zenburn"/>
+  <img align="center" alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aeeryin&theme=darcula"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aeeryin&theme=darcula"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -77,20 +78,15 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Contato-123948?style=for-the-badge&logo=proton&logoColor=1)](mailto:contato.aeeryin@proton.me)
+  [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=lightpurple)]([https://discord.gg/8kc8HqXVw2](https://discord.gg/ZnBRrxX5cJ))
   
 </div>
 
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        ♡ <a href="https://rentry.co/aeeryin">rentry</a> ⊹
       </samp>
   </p>
 </div>
@@ -99,13 +95,5 @@
 </details>
 
 ##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> 
-</div>
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
