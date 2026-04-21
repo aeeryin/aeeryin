@@ -1,99 +1,57 @@
-## Olá, eu me Chamo Aeeryin 👋
+# 👋 Olá, eu sou a Aeeryin
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=header"/>
+💻 **Desenvolvedora Full Stack**
+🚀 Apaixonada por tecnologia, interfaces modernas e soluções criativas
+🎯 Sempre aprendendo algo novo e melhorando minhas habilidades
 
-<br>
+---
 
-<div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div>
+## 🧠 Sobre mim
 
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      My name is <b>Aeeryin</b>
-  </samp>
-</div>
+* 🔭 Atualmente trabalhando em projetos pessoais e ideias criativas
+* 🌱 Estudando **JavaScript, Node.js, React e backend em geral**
+* ⚡ Curto criar interfaces bonitas e funcionais
+* 💡 Gosto de transformar ideias em projetos reais
 
-<div align="center" width="100%">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Im+a+FullStack+Developer;Im+Brazillian" alt="Typing SVG"/>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/aeeryin-black?style=for-the-badge&logo=AntDesign&logoColor=1" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <br>
-  <br>
-  <img align="center" alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aeeryin&theme=darcula"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aeeryin&theme=darcula"/>
-</div>
+## 📊 Estatísticas do GitHub
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
 
-<br>
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-<br>
+---
 
-##
+## 🔥 Streak
 
-<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO\&theme=tokyonight\&hide_border=false)
 
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
+---
 
-  [![Gmail](https://img.shields.io/badge/Contato-123948?style=for-the-badge&logo=proton&logoColor=1)](mailto:contato.aeeryin@proton.me)
-  [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord&logoColor=lightpurple)]([https://discord.gg/8kc8HqXVw2](https://discord.gg/ZnBRrxX5cJ))
-  
-</div>
+## 🌐 Contato
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/aeeryin">rentry</a> ⊹
-      </samp>
-  </p>
-</div>
-<br>
+* 💬 Discord: `@aeeryinx`
+* 📧 Email: [contact.aeeryin@gmail.com](mailto:contact.aeeryin@gmail.com)
 
-</details>
+---
 
-##
+## 🎨 Visual
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blue)
+
+---
+
+## ⚡ Frase
+
+> "Transformando ideias em código."
+
+---
+
+⭐ **Se curtir meus projetos, deixa uma estrela!**
