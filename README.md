@@ -1,16 +1,19 @@
-         ______     ______     ______     ______     __  __     __     __   __    
-  _ _/| /\  __ \   /\  ___\   /\  ___\   /\  == \   /\ \_\ \   /\ \   /\ "-.\ \   
-\'o.0'\   \  __ \  \ \  __\   \ \  __\   \ \  __<   \ \____ \  \ \ \  \ \ \-.  \  
-=(___)=\   \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\  \/\_____\  \ \_\  \ \_\\"\_\ 
-  U       \/_/\/_/   \/_____/   \/_____/   \/_/ /_/   \/_____/   \/_/   \/_/ \/_/ 
-                                                                          
-[ OK ]  Mounting /proc filesystem...
-[ OK ]  Starting D-Bus System Message Bus...
-[ OK ]  Starting System Logging Service...
-[ OK ]  Starting SSH Server...
-[ OK ]  Starting Apache2 Web Server...
-[ OK ]  Starting User Login Management...
-[ OK ]  Starting github.aeeryin! - Not a Backdoor...
-[ OK ]  Connecting to bezu.dev network...
-[ Loading system components... ]
-[ OK ] System boot completed successfully. Entering workspace...
+root@b-01:~# insmod main.ko
+root@b-01:~# dmesg
+
+[    0.000000] aeeryin: rootkit successfully loaded
+[    0.000000] aeeryin:          /\___/\
+[    0.000000] aeeryin:          \ -.- /
+[    0.000000] aeeryin:          `-.^.-'
+[    0.000000] aeeryin:            /"\
+root@b-01:~# dmesg -c
+root@b-01:~# echo "wh0ami" > /dev/null; dmesg
+[    0.000000] aeeryin: Hi, I'm aeeryin
+[    0.000000] aeeryin: here's a place where I'll post codes involving my blog posts
+[    0.000000] aeeryin: or codes that I'm currently developing.
+[    0.000000] aeeryin: yes i copied bezumiya readme.md he are my friendo!!!!!!
+root@b-01:~# dmesg -c
+root@b-01:~# echo "Skill$" > /dev/null; dmesg
+[    0.000000] aeeryin: [Linux] [Bash] [Golang]
+[    0.000000] aeeryin: [Privacy] [RedTeam] [Network Pentest]
+root@b-01:~# dmesg -c
